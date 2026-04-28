@@ -1,0 +1,15 @@
+.auth-page {
+  min-height: 100vh; display: flex; align-items: center; justify-content: center;
+  background: #0f1117;
+}
+.auth-card {
+  background: #fff; border-radius: 12px; padding: 36px; width: 400px; max-width: 95vw;
+}
+.auth-logo {
+  font-family: 'Courier New', monospace; font-size: 22px; font-weight: 700;
+  color: #EF9F27; letter-spacing: 3px; margin-bottom: 12px;
+}
+.auth-title { font-size: 20px; font-weight: 600; color: #1a1a2e; margin-bottom: 4px; }
+.auth-sub { font-size: 13px; color: #9ca3af; margin-bottom: 24px; }
+.auth-link { text-align: center; margin-top: 16px; font-size: 13px; color: #6b7280; }
+.auth-link a { color: #EF9F27; text-decoration: none; font-weight: 500; }

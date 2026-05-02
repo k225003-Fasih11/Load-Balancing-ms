@@ -2,5 +2,8 @@ node_modules/
 .env
 dist/
 build/
+<<<<<<< HEAD
 .DS_Store
 *.log
+=======
+>>>>>>> 2a94d0816152af6df06f08529a60c5a982974239
